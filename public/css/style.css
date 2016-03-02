@@ -1,0 +1,32 @@
+body{
+  background-color: gray;
+}
+.form-control{
+  border-radius: 0px !important;
+  /*background-color: #97B4A4;*/
+}
+/*Circle button style start*/
+.btn-circle {
+  width: 49px;
+  height: 49px;
+  text-align: center;
+  padding: 9px 0;
+  font-size: 20px;
+  border-radius: 30px;
+  border: 2px solid #000000;
+  font-weight: 600;
+}
+/*Circle button style end*/
+.error-message{
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.fa-twitter-square{
+  color: #10dffd;
+}
+.fa-facebook-square{
+  color: #3b5998;
+}
+.fa-google-plus-square{
+  color: #d62d20;
+}
