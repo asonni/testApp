@@ -1,5 +1,5 @@
 (function(){
-  "use strict";
+  'use strict';
   var app = angular.module('auth', ['ui.router']);
   app.config(['$stateProvider', '$urlRouterProvider', function($stateProvider, $urlRouterProvider){
     $stateProvider.state('register', {
